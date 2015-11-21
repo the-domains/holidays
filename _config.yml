@@ -1,0 +1,28 @@
+name: Holidays
+favicon: null
+layout_spectrum: 0.8139975995291024
+typography_spectrum: 0.26586903003044426
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9491068460047245
+  lightness: 0.40101816202513874
+  saturation: 0.8084455758798867
+  rhythmicContrast: 0.2404316586907953
+purpose: []
