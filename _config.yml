@@ -1,28 +1,40 @@
-name: Holidays
 favicon: null
-layout_spectrum: 0.8139975995291024
-typography_spectrum: 0.26586903003044426
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Holidays
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.8084455758798867
+  brandStrength: 0.9491068460047245
+  rhythmicContrast: 0.2404316586907953
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.9491068460047245
-  lightness: 0.40101816202513874
-  saturation: 0.8084455758798867
-  rhythmicContrast: 0.2404316586907953
-purpose: []
+  lightness: 0.4010181620251387
+typography_spectrum: 0.2658690300304443
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9802867
+analytics:
+  twitter: null
+  google: null
+  facebook: null
